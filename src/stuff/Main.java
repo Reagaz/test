@@ -49,6 +49,7 @@ public class Main {
         Pokemon koffing = new Pokemon("Koffing", "Poison");
         Pokemon squirtle = new Pokemon("Squirtle", "Water");
         Pokemon billibass = new Pokemon("Billi bäss", "Gott");
+        Pokemon torstensVad = new Pokemon("Torstens vad", "stark");
 
         wildPokemons.add(pikachu);
         wildPokemons.add(odish);
@@ -56,6 +57,7 @@ public class Main {
         wildPokemons.add(koffing);
         wildPokemons.add(squirtle);
         wildPokemons.add(billibass);
+        wildPokemons.add(torstensVad);
     }
 
     public Pokemon aWildPokemonAppears() {
